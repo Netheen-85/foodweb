@@ -1,0 +1,19 @@
+body{
+margin: 0px;
+}
+
+.head{
+    height: 50vh;
+width: 100vw;
+background-color: black;
+}
+
+.middle{
+    height: auto;
+    width: 100vw;
+    background-color: antiquewhite;
+}
+
+
+
+
